@@ -1,2 +1,0 @@
-# TENSECOMMUNITY
-go away kid
